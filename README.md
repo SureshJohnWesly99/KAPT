@@ -1,5 +1,6 @@
 
-# KAPT - Knowledge Assessment and Plagiarism Tool Documentation
+# KAPT - Knowledge Assessment and Plagiarism Tool
+
 
 ## Table of Contents
 1. [Introduction](#introduction)
